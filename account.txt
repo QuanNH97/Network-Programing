@@ -1,0 +1,4 @@
+quan	234	1
+cuong	123	0
+trang	456	1
+trung	123	1
